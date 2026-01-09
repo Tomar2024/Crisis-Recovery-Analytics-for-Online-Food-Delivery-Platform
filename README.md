@@ -15,8 +15,8 @@ Delivery delays and higher cancellations aligned with sharp drops in customer ra
 Month-wise rating analysis revealed specific periods of severe customer dissatisfaction.
 Sentiment analysis highlighted recurring negative feedback themes driving rating declines.
 High-frequency and high-value customers showed early signs of churn, indicating long-term retention risk.
-Tools Used
 
+Tools Used
 Power BI
 DAX (Time Intelligence, Pre vs Post Analysis)
 Data Modeling
