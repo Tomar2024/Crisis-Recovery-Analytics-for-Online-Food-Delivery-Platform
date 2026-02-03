@@ -25,7 +25,9 @@ Customer & Revenue Analytics
 5.   Data Source
 Codebasics Project Challenge 23
 
-6.   Features/Highlights
+6.Features/Highlights
+
+
 QickBite Express faced a major business disruption due to food safety incidents and delivery outages, which led to customer churn, order volume decline, falling customer satisfaction, restaurant partner attrition, and increased acquisition costs.
 Management needs data-driven insights to understand what went wrong, who was most impacted, and how to recover customers, rebuild trust, and stabilize operations efficiently.
 
